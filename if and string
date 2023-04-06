@@ -1,0 +1,3 @@
+if 48403 < 49683: print("welcome to python")
+string = 18
+print ( string )
